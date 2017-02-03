@@ -1,0 +1,13 @@
+IMPORTANT TRICKS ALL PYTHON DEVELOPERS SHALL KNOW:
+
+1. Transposing a matrix:
+	mat = [[1,2,3],[4,5,6]]
+	zip(*mat)
+	>>> [(1,4),(2,5),(3,6)]
+
+2. Reversing a string in Python
+	a = 'Hello'
+	print 'Reverse is', a[::-1]
+	>>> Reverse is olleH
+
+3. a
